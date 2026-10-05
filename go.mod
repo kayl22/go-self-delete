@@ -1,4 +1,4 @@
-module github.com/secur30nly/go-self-delete
+module github.com/kayl22/go-self-delete
 
 go 1.19
 
